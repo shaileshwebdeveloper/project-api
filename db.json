@@ -954,5 +954,165 @@
     "name": "",
     "date": "Feb 1"
   }
+],
+"indianews" : [
+  { 
+    "id": 1,
+    "title": "Grain ATM dispensing ration soon to be a reality in Odisha",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/epfo_office.jpg?nG3vZ.ym.zsYRL9GQRAh3JDrIQabm.ys&size=170:96",
+    "description": "The Odisha government has drawn up plans to install grain ATMs which can dispense food items to beneficiaries of the Public Distribution System (PDS) scheme." },
+  { 
+    "id": 2,
+    "title": "BJP had no time for disgruntled UP minister Jitin Prasada",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/Jitin_1200x768_1200x768.jpeg?.wWXaRQ4m_0E7GkMy_J0HgJZkAHVfWsN&size=170:96",
+    "description": "BJP leader Jitin Prasada, who is reportedly miffed with the UP government, was in Delhi to meet party high command on Wednesday" },
+  { 
+    "id": 3,
+    "title": "Teesta Setalvad part of conspiracy to frame PM Modi in 2002 Gujarat riots case: Probe team to Court",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/sc_1200x768.jpeg?v_nWcX5ujwmFmOiBdro3Z3FgziQhmlTm&size=170:96",
+    "description": "A state SIT told a court that Teesta Setalvad was part of a larger conspiracy to frame the then-Gujarat Chief Minister Narendra Modi and others as accused in the post-Godhra riots case" },
+  { 
+    "id": 4,
+    "title": "Courts should make police accountable for arresting a person for frivolous reasons: Justice Madan Lokur",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/sc_1200x768.jpeg?v_nWcX5ujwmFmOiBdro3Z3FgziQhmlTm&size=170:96",
+    "description": "In an exclusive interview with India Today, former Supreme Court Judge Justice Madan Lokur said that courts should make police accountable for arresting a person for frivolous reasons." },
+  { 
+    "id": 5,
+    "title": "Russian cargo ship, detained at Kerala port, released",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/Collage_Maker-20-Jul-2022-11.3_1200x768.jpeg?gXYG3nCJKyGNg9oVHmmKWnF1p3S9S.Vq&size=170:96",
+    "description": "A Russian cargo ship which was detained at a Kerala port was released on Wednesday." },
+  { 
+    "id": 6,
+    "title": "SC grants bail to Mohammed Zubair: What will it take to rein in law enforcement agencies?",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/sc_1200x768.jpeg?v_nWcX5ujwmFmOiBdro3Z3FgziQhmlTm&size=170:96",
+    "description": "On a day when the Supreme Court granted Alt News co-founder Mohammad Zubair interim bail in all FIRs lodged in Uttar Pradesh against him for alleged hate speech, we raised these questions on the show:" },
+  { 
+    "id": 7,
+    "title": "Sonia Gandhi will be in ED office today, Congress on streets",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/Collage-Of-2_1.jpg?.7H1DSDtNjUnMLY4HeGlyWxm68NJPb0z&size=170:96",
+    "description": "The Enforcement Directorate (ED) will question Congress President Sonia Gandhi today over the National Herald case. Meanwhile, Congress workers are planning a nationwide protest against the ED summons to Sonia." },
+  { 
+    "id": 8,
+    "title": "Some aspirants seeking new career path post Agnipath announcement",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/EDfile_1200x768_1200x768.jpeg?ARyhquJrQGh1Ul8d0MP00hLkweLt62mE&size=170:96",
+    "description": "Military aspirants, who had cleared exams under the previous recruitment scheme, are apprehensive about Agnipath and are seeking new career opportunities." },
+  { 
+    "id": 9,
+    "title": "Good news: Meet Neetu who gives free education to underprivileged kids in Bihar\"s Saran district",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/Tiranga.jpg?4TKsWVwhQfyVrySYhR_ThbJdmsFjn9GO&size=170:96",
+    "description": "In our good news segment, watch the story of Neetu who provides free education and even study materials to underprivileged kids in Bihar\"s Saran district." },
+  { 
+    "id": 10,
+    "title": "Fire onboard INS Vikramaditya, no casualties reported",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/Collage_Maker-20-Jul-2022-11.3_1200x768.jpeg?gXYG3nCJKyGNg9oVHmmKWnF1p3S9S.Vq&size=170:96",
+    "description": "During a planned sortie at sea, a fire broke out onboard INS Vikramaditya on Wednesday, July 20." },
+  { 
+    "id": 11,
+    "title": "MP civic polls: Cong makes inroads into BJP stronghold with Gwalior, Jabalpur mayor seats",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/congress_flag_1200x768_1200x76_1200x768.jpeg?TnbpNrVwC6eURyA.iTgZ2Q6AJKNfkWbj&size=170:96",
+    "description": "Gwalior and Jabalpur, both strongholds of the BJP, are set to have a Congress mayor after a gap of over 50 years and 23 years respectively." },
+  { 
+    "id": 12,
+    "title": "Attorney General refuses to prosecute journalist for tweet against CJI Ramana",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/pandey_0_1200x768.jpeg?OkSUzP6iMU7L9JjOsduQnTKYpkyNsR3Q&size=170:96",
+    "description": "Attorney General KK Venugopal turned down a request to initiate proceedings for criminal contempt against journalist Dilip Mandal for his tweet against the Chief Justice of India (CJI) NV Ramana." },
+  { 
+    "id": 13,
+    "title": "India\"s third case of monkeypox confirmed in Kerala as 35-year-old UAE returnee tests positive",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/monkeypox-ap-pti_0_1200x768.jpeg?H6z4KhDLTijkciUwak_M63IMtKoyz6vz&size=170:96",
+    "description": "This is India’s third monkeypox case. The two earlier cases have also been reported from Kerala." },
+  { 
+    "id": 14,
+    "title": "African Swine Fever reported in Kerala\"s Wayanad",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/swine_1200x768.png?EO7GQ8xLNpha_09PQQKrok9291SGvR62&size=170:96",
+    "description": "African swine fever is a highly contagious and fatal viral disease affecting domestic pigs." },
+  { 
+    "id": 15,
+    "title": "Cross-voting in 10 states bolsters Droupadi Murmu’s win, exposes fault lines in Oppn",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/murmu_1_1200x768.jpeg?9p7qzbSI0HKUSMmCvUZoCvhKLYhQhAZV&size=170:96",
+    "description": "With Droupadi Murmu winning the presidential polls with an overwhelming majority, it has become clear that Opposition MPs and MLAs defied party lines to cross-vote for the NDA candidate." },
+  { 
+    "id": 16,
+    "title": " Protestors write \"Haj House\" on walls of Congress office in Ahmedabad, defaces posters and banners",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/gujarat2_1200x768.png?lE4ACWeM0lJCRK_U6BvOW.W66AXSQViW&size=170:96",
+    "description": "The activists defaced several pictures of Congress leaders at the Rajiv Gandhi Bhavan early morning on Friday." },
+  { 
+    "id": 17,
+    "title": "In jolt to Mamata Banerjee, BJP says 2 TMC MPs, 1 MLA cross-voted in Murmu\"s favour",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/mamata_2_1200x768.png?30l_f16BsLNq9WMtRZF9ITCRNFFM0rjf&size=170:96",
+    "description": "In sobering news for Mamata Banerjee, the BJP has claimed that quite a few of her party MPs and MLAs cross-voted in Droupadi Murmu\"s favour." },
+  { 
+    "id": 18,
+    "title": "ED lands at Bengal minister Partha Chatterjee\"s home, questions him in SSC scam probe",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/Partha-Chatterjee-647_0_1200x7_1200x768.jpeg?N5_vVJB6CZkXzqX_XOjCqwSbj0IacUkb&size=170:96",
+    "description": "The Enforcement Directorate is questioning West Bengal minister and TMC leader Partha Chatterjee in connection with the SSC recruitment scam case." },
+  { 
+    "id": 19,
+    "title": "Illegal liquor worth Rs 56 lakh destroyed in Gujarat’s Surat",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/1200_9.jpg?4cQ95D7xTHeirahn2yhGKa9UMp8Yy5oo&size=170:96",
+    "description": "Thousands of liquor bottles worth Rs 56 lakh were bulldozed in Gujarat\"s Surat on Thursday." },
+  { 
+    "id": 20,
+    "title": "Droupadi Murmu scripts history, becomes India’s 1st tribal president | Know her journey",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/murmu_d_0_1200x768.jpeg?OX8YPykwTR.BNKiIue_ipjMVi.h4j4Lx&size=170:96",
+    "description": "Droupadi Murmu scripted history on Thursday when she was elected India\"s first Adivasi President. Here’s what you need to know about her." 
+  }
+],
+"readsidebar" : [
+  {
+    "id": 1,
+    "titlle": "Rishi Sunak\"s meteoric rise and burden to make Britain \"Great\" again",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/rishi_1200x768.jpeg?size=88:50" },
+  { 
+    "id": 2,
+    "titlle": "Can the Thackerays win back lost territory in Aurangabad?",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/PTI07_03_2022_000052A_1200x768.jpeg?size=88:50" },
+  { 
+    "id": 3,
+    "titlle": "Google Pixel 6a quick review: At price of Rs 43,999, it is a phone for fans",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/Pixel_6a_review__3__1200x768.png?size=88:50" },
+  { 
+    "id": 4,
+    "titlle": "Isro developing capability to launch humans on quick space tourism flights",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/Gaganyaan_crew.JPG?size=88:50" }
+],
+"top" : [
+  { 
+  "id": 1,
+  "title": "Europe Heatwave: Watch how Europe is melting",
+  "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/delhi_police_1200x768_0.jpeg?gbB1Sm.NFZ7xAPWsRjPXWr4hlJrvA3d9&size=170:96" },
+{ 
+  "id": 2,
+  "title": "Military tech being developed for India’s defence forces",
+  "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/delhi_police_1200x768_0.jpeg?gbB1Sm.NFZ7xAPWsRjPXWr4hlJrvA3d9&size=170:96" },
+{ 
+  "id": 3,
+  "title": "TMC to abstain from voting in vice-presidential polls",
+  "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/whatsapp_1200x768_0.jpeg?.ZKJzsK1tkMxMehq52RLcjf3NG5Hht7c&size=170:96" }
+],
+"watchsidebar" : [
+  {
+    "id": 1,
+    "title": "Droupadi Murmu becomes India\"s 15th President",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/rishi_1200x768.jpeg?size=88:50" },
+  { 
+    "id": 2,
+    "title": "Sonia Gandhi grilled for 3 hours by ED in National Herald case",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/PTI07_03_2022_000052A_1200x768.jpeg?size=88:50" },
+  {
+    "id": 3,
+    "title": "Military tech being developed for India’s defence forces",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/Pixel_6a_review__3__1200x768.png?size=88:50" },
+  {
+    "id": 4,
+    "title": "National Herald case: Chidambaram takes a dig at ED, says it had no more questions after 3 pm for Sonia Gandhi",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/IMG_20220721_181552_1200x768.jpeg?053Phi6JhdQDpEVUhjHjrxzehuxd_8Zz&size=170:96" },
+  {
+    "id": 5,
+    "title": "National Herald case: Chidambaram takes a dig at ED, says it had no more questions after 3 pm for Sonia Gandhi",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/Collage_Maker-21-Jul-2022-11.2_1200x768.jpeg?3SRE8XUo1043u0G1iaK0.28MJVaakWsA&size=170:96" }
 ]
+
+
+
 }
